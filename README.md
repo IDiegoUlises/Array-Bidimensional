@@ -9,3 +9,4 @@ int  caja[NUMFIL][NUMCOL]
 
 
 para recorrer la matriz se debe declarar dos ciclos for uno y otro adentro
+Es una lista dentro de otra lista
